@@ -46,7 +46,7 @@
 # ------------------------------------------------------
 ![Ekran Resmi 2024-04-13 17 38 27](https://github.com/taranta/ASUS-TUF-GAMING-Z790-PLUS-WIFI-D4-SONOMA/assets/28186049/1409a3de-fc65-4209-96ae-1909f28d1c84)
 ![Ekran Resmi 2024-04-13 17 40 55](https://github.com/taranta/ASUS-TUF-GAMING-Z790-PLUS-WIFI-D4-SONOMA/assets/28186049/0ec1eac1-29e6-43ca-a064-ac27114a769e)
-![Ekran Resmi 2024-04-13 16 48 20](https://github.com/taranta/ASUS-TUF-GAMING-Z790-PLUS-WIFI-D4-SONOMA/assets/28186049/da2e0423-4477-4d88-948e-278443e12ef9)
+![Ekran Resmi 2024-04-13 18 01 12](https://github.com/taranta/ASUS-TUF-GAMING-Z790-PLUS-WIFI-D4-SONOMA/assets/28186049/bd43d498-90ec-42ed-8657-ed311123f7c0)
 ![Ekran Resmi 2024-04-13 16 50 37](https://github.com/taranta/ASUS-TUF-GAMING-Z790-PLUS-WIFI-D4-SONOMA/assets/28186049/a742e971-86f2-4ca0-b278-3f47505bdd98)
 ![Ekran Resmi 2024-04-13 16 50 42](https://github.com/taranta/ASUS-TUF-GAMING-Z790-PLUS-WIFI-D4-SONOMA/assets/28186049/ab81e370-b003-468c-9a32-e17159fbbdad)
 ![Ekran Resmi 2024-04-13 16 50 46](https://github.com/taranta/ASUS-TUF-GAMING-Z790-PLUS-WIFI-D4-SONOMA/assets/28186049/bb8c778e-9605-414f-8d67-64a0f1f46416)
