@@ -16,6 +16,7 @@
 - This study contains OpenCore folder in the EFI System Partition of SSD  and some advices
 - OpenCore 0.9.9 is the current version
 - Sonoma 14.4.1 is the current version
+- Ther is not any manuel overclock
 - Recomended SmBios is iMacPro 1.1 
 - You must create your own serial number from the Platforminfo/DataHub-Generic-PlatformNVRAM section in OpenCore Configurator
 - If you are using a network card like Fenvi T919, you must apply Post-install Root using OpenCore-Legacy-Patcher in order for it to work on Sonoma. You can download the app from this link : https://github.com/dortania/OpenCore-Legacy-Patcher/releases
