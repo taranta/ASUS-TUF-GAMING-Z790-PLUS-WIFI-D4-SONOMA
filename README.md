@@ -10,7 +10,7 @@
  - G.Skill Ripjaws 64GB 4 Slots DDR4 3200Mhz CL16 
  - Corsair RM1000 – 1000 Watt 80 Plus Gold PSU
  - Noctua NH-U14S CPU Cooling
- - Fenvi T919 PCI-E Wifi & Bluetooth or ( Onboard ALC S1220A wifi and bluetooth )
+ - Fenvi T919 PCI-E Wifi & Bluetooth 
 
 # -------------------------------------------------------
 - This study contains OpenCore folder in the EFI System Partition of SSD  and some advices
@@ -18,7 +18,7 @@
 - Recomended SmBios is iMacPro 1.1 
 - You must create your own serial number from the Platforminfo/DataHub-Generic-PlatformNVRAM section in OpenCore Configurator
 - If you are using a network card like Fenvi T919, you must apply Post-install Root using OpenCore-Legacy-Patcher in order for it to work on Sonoma. You can download the app from this link : https://github.com/dortania/OpenCore-Legacy-Patcher/releases
-- If you want to use onboard ALC S1220A wifi and bluetooth, I will also add the EFI folder created for it. You can follow the link to be informed about the current OpenintelWireless & Bluetooth kext and patches. https://github.com/OpenIntelWireless
+
 # -------------------------------------------------------
 # Bios Settings
 - Ai Tweaker → Ai Overclock Tuner → Choose XMP profile
@@ -58,7 +58,6 @@
 # Thanks to:
 - <a href="https://www.olarila.com">Mald0n</a> - For DSDT Patch and awesome tutorials
 - <a href="https://github.com/dortania/OpenCore-Legacy-Patcher">dortania</a> - OCLP,SSDT and  other awesome hackintosh works
-- <a href="https://github.com/OpenIntelWireless">OpenIntelWireless</a> - OpenIntelWireless and Bluetooth
 - <a href="https://github.com/acidanthera">Acidanthera</a> - OpenCore Boot Loader, AppleALC, Lilu & WhateverGreen, VirtualSMC
 - <a href="https://www.tonymacx86.com/threads/asus-tuf-gaming-z690-plus-wifi-d4-alder-lake-i7-12700k-amd-radeon-rx580.323247/">frontgear</a> - For inspiration
 
