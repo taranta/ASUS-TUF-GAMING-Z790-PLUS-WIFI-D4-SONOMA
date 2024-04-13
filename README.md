@@ -7,7 +7,7 @@
  - MSI Radeon RX 6600 XT MECH 2x 8G
  - WD_Black SN850X M.2  1TB Nvme
  - Kingston KC3000 M.2  2TB Nvme
- - G.Skill Ripjaws 64GB 4 Slots DDR4 3200Mhz CL16 
+ - G.Skill Ripjaws 64GB - 4 Slots 16GB DDR4 3200Mhz CL16 
  - Corsair RM1000 – 1000 Watt 80 Plus Gold PSU
  - Noctua NH-U14S CPU Cooling
  - Fenvi T919 PCI-E Wifi & Bluetooth 
@@ -15,6 +15,7 @@
 # -------------------------------------------------------
 - This study contains OpenCore folder in the EFI System Partition of SSD  and some advices
 - OpenCore 0.9.9 is the current version
+- Sonoma 14.4.1 is the current version
 - Recomended SmBios is iMacPro 1.1 
 - You must create your own serial number from the Platforminfo/DataHub-Generic-PlatformNVRAM section in OpenCore Configurator
 - If you are using a network card like Fenvi T919, you must apply Post-install Root using OpenCore-Legacy-Patcher in order for it to work on Sonoma. You can download the app from this link : https://github.com/dortania/OpenCore-Legacy-Patcher/releases
