@@ -2,7 +2,7 @@
 
 # My hardware components:
 
- - Asus Tuf Gaming Z790-Plus Wifi D4 Bios 1611
+ - Asus Tuf Gaming Z790-Plus Wifi D4 Bios 1658
  - Intel Raptor Lake i7-13700K 3.42Ghz – 5.40Ghz
  - MSI Radeon RX 6600 XT MECH 2x 8G
  - WD_Black SN850X M.2  1TB Nvme
