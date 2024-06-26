@@ -14,8 +14,8 @@
 
 # -------------------------------------------------------
 - This study contains OpenCore folder in the EFI System Partition of SSD  and some advices
-- OpenCore 0.9.9 is the current version
-- Sonoma 14.4.1 is the current version
+- OpenCore 1.0.0 is the current version
+- Sonoma 14.4.5 is the current version
 - Ther is not any manuel overclock
 - Recomended SmBios is iMacPro 1.1 
 - You must create your own serial number from the Platforminfo/DataHub-Generic-PlatformNVRAM section in OpenCore Configurator
